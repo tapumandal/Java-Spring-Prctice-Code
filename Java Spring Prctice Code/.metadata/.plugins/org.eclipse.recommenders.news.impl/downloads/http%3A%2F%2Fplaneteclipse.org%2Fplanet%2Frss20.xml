@@ -8,6 +8,38 @@
 	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
 
 <item>
+	<title>Maximilian and Jonas: EMF Forms and EMF Client Platform 1.20.0 released!</title>
+	<guid isPermaLink="false">https://eclipsesource.com/?p=40960</guid>
+	<link>https://eclipsesource.com/blogs/2019/03/21/emf-forms-and-emf-client-platform-1-20-0-released/</link>
+	<description>&lt;p&gt;We are happy to announce that with the Eclipse Release 2018-03, we have also shipped  EMF Forms and EMF Client Platform...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://eclipsesource.com/blogs/2019/03/21/emf-forms-and-emf-client-platform-1-20-0-released/&quot; rel=&quot;nofollow&quot;&gt;EMF Forms and EMF Client Platform 1.20.0 released!&lt;/a&gt; appeared first on &lt;a href=&quot;https://eclipsesource.com&quot; rel=&quot;nofollow&quot;&gt;EclipseSource&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 21 Mar 2019 16:06:10 +0000</pubDate>
+</item>
+<item>
+	<title>Webtools News: WTP 3.13 Released!</title>
+	<guid isPermaLink="false">http://www.eclipse.org/webtools/news.php#permalink187</guid>
+	<link>http://eclipse.org/webtools/releases/3.13</link>
+	<description>&lt;div&gt;
+		The Eclipse Web Tools Platform 3.13 has been released!
+		&lt;a href=&quot;https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F&quot;&gt;Installation&lt;/a&gt;
+		and updates can be performed using the
+		Eclipse IDE 2019-03
+		&lt;a href=&quot;http://download.eclipse.org/releases/2019-03/&quot;&gt;Update Site&lt;/a&gt;
+		or through the
+		&lt;a href=&quot;https://marketplace.eclipse.org/user/nitind/listings&quot;&gt;Eclipse Marketplace&lt;/a&gt;
+		.
+		Release 3.13 is included in the 2019-03
+		&lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2019-03/r/eclipse-ide-enterprise-java-developers&quot;&gt;
+			Eclipse IDE for Enterprise Java Developers
+		&lt;/a&gt; and &lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2019-03/r/eclipse-ide-javascript-and-web-developers&quot;&gt;Eclipse IDE for JavaScript and Web Developers&lt;/a&gt;
+		, with selected portions also included in 8
+		&lt;a href=&quot;http://www.eclipse.org/downloads/compare.php&quot;&gt;other packages&lt;/a&gt;
+		. Adopters can download
+		&lt;a href=&quot;http://download.eclipse.org/webtools/downloads/&quot;&gt;the R3.13 update site itself&lt;/a&gt;
+		directly and combine it with the necessary dependencies.&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink187&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 20 Mar 2019 23:35:00 +0000</pubDate>
+</item>
+<item>
 	<title>Wayne Beaton: Progress and Release Reviews</title>
 	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=5543</guid>
 	<link>https://waynebeaton.wordpress.com/2019/03/19/progress-and-release-reviews/</link>
@@ -599,42 +631,6 @@ October 22 - 24: Conference
 
 &lt;p&gt;If you are using our new Github App and you wish to contribute feedback, please do so on &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=540694&quot;&gt;Bug 540694&lt;/a&gt; - Github IP validation needs to be more robust.&lt;/p&gt;</description>
 	<pubDate>Mon, 25 Feb 2019 23:20:46 +0000</pubDate>
-</item>
-<item>
-	<title>Mike Milinkovich: Measuring Industrial IoT’s Evolution</title>
-	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1485</guid>
-	<link>https://eclipse-foundation.blog/2019/02/25/measuring-industrial-iots-evolution/</link>
-	<description>&lt;p&gt;Today the Eclipse IoT Working Group announced major milestones as IoT’s largest Open Source community:  41 member companies, 37 projects, and 350 contributors. It’s hard to believe that it all started in 2011 with just three projects and the basic goal to reduce the complexity of developing machine-to-machine IoT solutions.&lt;/p&gt;
-&lt;p&gt;And it’s an interesting day to reflect on “where we are today” on the Industrial IoT adoption curve.&lt;/p&gt;
-&lt;p&gt;Where the arrival of consumer IoT adoption is obvious in our day to day lives–with smart thermostats, smart doorbells, Alexa and Google voice attendants, and ever more gadgets creeping into our smart homes–industrial IoT’s progress has been much trickier to follow.&lt;/p&gt;
-&lt;p&gt;Key industries in industrial IoT — like manufacturing — have companies that have been around for 40, 50 and 100 years. There’s an inherent complexity in rolling out new technology in brownfield scenarios. It’s much more difficult to drop new technology into plants with massive existing computer-controlled systems, each with their own alphabet soup of protocols and frameworks that people outside of that industry have never even heard of.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Remember the Earliest Days of the Commercial Internet?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;The cleanest way I can think to explain where we are in industrial IoT adoption today is to draw an analogy to the early days of the commercial Internet.&lt;/p&gt;
-&lt;p&gt;A lot of people’s concept of the Internet’s origins is Mosaic and the advent of the web browser. Sure, the human interface to the web — the modern browser — was a critical enabler for the commercialization of the Internet. But I think the plumbing — and more specifically, the LAMP stack — was the most critical enabler for the Internet’s acceleration from disparate connected systems on academic and science campuses, to the web as we know it today.&lt;/p&gt;
-&lt;p&gt;The industry’s standardization on the Linux, Apache, MySQL, and PHP scripting language open source “stack” brought uniformity, predictability, and scalability guarantees for everyone building web applications. Those guarantees inspired the massive wave of innovation in web applications that allowed businesses to capture new revenue opportunities, while the underlying stack just worked. Industry doesn’t want to innovate below the value line–it wants to create new services on top of standard infrastructure.&lt;/p&gt;
-&lt;p&gt;To date, Industrial IoT still awaits its LAMP stack, to give industry the uniform building blocks and graduate away from the proprietary one-offs of the first generations of creating IoT systems. Eclipse IoT represents the largest open source community that’s racing to standardize on those open, interoperable, and flexible components for industrial IoT. It is our conviction that the basic building blocks of the IoT must be open source in order to enable the full array of highly scalable business models necessary to the IoT’s success.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Eclipse IoT: Building the LAMP-Like Stack for Industrial IoT&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Let’s take a look at some Eclipse IoT projects that I believe have the same characteristics of modular, open source components, with broad appeal to industrial IoT use cases today. Obviously these aren’t perfectly analogous to Linux, Apache, MySQL and Perl / PHP / Python – but I think the case can be made that they are addressing some of the critical application infrastructure pieces that industrial IoT needs to take off. And just like the LAMP stack, all of these components are 100% open source, and therefore offer the flexibility and permissionless innovation characteristics that helped launch the commercial Internet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.eclipse.org/paho/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Eclipse Paho&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In terms of protocols, Message Queuing Telemetry Transport (MQTT) is the most widely adopted in IoT. While it’s been around for a dozen years, MQTT remains the standard of choice for IoT messaging with 80% of Eclipse IoT Developer survey takers using it. Eclipse Paho is a hardened open source client implementation that focuses on integration with a wide range of middleware, programming and messaging models..&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://projects.eclipse.org/proposals/eclipse-tahu&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Eclipse Tahu / SparkPlug&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MQTT is very lightweight and easy to understand, but does not allow out of the box connectivity. SparkPlug compliments the transport layer–so you can get immediate interoperability. That’s a huge missing piece now. Topic structures, payload structures, all that stuff. Eclipse Tahu extends that capability of SparkPlug and addresses the existence of legacy SCADA/DCS/ICS protocols and infrastructures to provide a much-needed definition of how best to apply MQTT into these existing industrial operational environments.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.eclipse.org/kura/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Eclipse Kura&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Kura is a gateway project that provides all the technology you need for building the middle tier in an industrial IOT application. Most IoT implementations have sensors that send telemetry data to some gateway device that does processing at the edge, then determines whether that data needs to be shared with higher order business processes. One of the big responsibilities is protocol translation. Coming in could be any number of low level industrial protocols you’ve never heard of, then going out would be translated for the cloud, over MQTT or HTTP itself. Kura focuses on MQTT–allowing you to data into on premise business process applications or to the cloud for large scale collection. The constrained devices that are collecting data at the edge need to funnel your data back through routers and firewalls, and Kura provides a critical gateway to allow the brokering of data between the sensors, processing at the edge, and publishing via MQTT to IoT cloud platforms such as &lt;a href=&quot;https://www.eclipse.org/kapua/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Eclipse Kapua&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://projects.eclipse.org/projects/iot.iofog&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Eclipse ioFog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Where constrained devices are tend to be cheap sensors with limited functionality, edge devices tend to push processing, memory and compute to the edge, to avoid the round-robin back to datacenters and the cloud (which is not possible for latency reasons).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Conclusions&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;If industry is arguing over how to build and deploy and get interoperability those are extreme barriers to widespread adoption of industrial IoT. That’s the case for an industry standard stack based on common standards, and that’s why we firmly believe the future of IoT will be open source.&lt;/p&gt;
-&lt;p&gt;There was a version of the Internet that existed for many years. Before the browser came along and before HTTP and HTML, the interfaces to the Internet were command line interfaces that only a very technical person would love. Once the browser came along, there was the possibility of widespread adoption. But the widespread adoption could not have happened if the server side equation were proprietary. We are at a similar inflection point with industrial IoT. The combination of open source, open standards, and the backing of a diverse ecosystem of partners will be key to delivering the interoperability and flexibility required to break free of locked-in, proprietary solutions and see adoption soar.&lt;/p&gt;</description>
-	<pubDate>Mon, 25 Feb 2019 13:00:49 +0000</pubDate>
-</item>
-<item>
-	<title>Maximilian and Jonas: Strategies towards web/cloud-based tools and IDEs</title>
-	<guid isPermaLink="false">https://eclipsesource.com/?p=40932</guid>
-	<link>https://eclipsesource.com/blogs/2019/02/25/strategies-towards-web-cloud-based-tools-and-ides/</link>
-	<description>&lt;p&gt;There is currently a big hype surrounding web- and cloud-based tooling. New projects and frameworks are popping up and existing projects...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://eclipsesource.com/blogs/2019/02/25/strategies-towards-web-cloud-based-tools-and-ides/&quot; rel=&quot;nofollow&quot;&gt;Strategies towards web/cloud-based tools and IDEs&lt;/a&gt; appeared first on &lt;a href=&quot;https://eclipsesource.com&quot; rel=&quot;nofollow&quot;&gt;EclipseSource&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Mon, 25 Feb 2019 11:36:22 +0000</pubDate>
 </item>
 
 </channel>

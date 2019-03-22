@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+   
+   <bean id="chassis" class="com.tapumandal.collection.list.Chassis">
+   		<property name="wheel">
+  			<list>
+  		   		<ref bean="wheelFrontLeft"/>
+  		   		<ref bean="wheelFrontRight"/>
+  		   		<ref bean="wheelRearLeft"/>
+  		   		<ref bean="wheelRearRight"/>
+  		   	</list>
+   		</property>
+   </bean>
+   
+   <bean id="wheelFrontLeft" class="com.tapumandal.collection.list.Wheel">
+   		<property name="radious" value="1"/>
+   		<property name="width" value="2"/>
+   		<property name="position" value="FrontLeft"/>
+   </bean>
+   <bean id="wheelFrontRight" class="com.tapumandal.collection.list.Wheel">
+   		<property name="radious" value="1"/>
+   		<property name="width" value="2"/>
+   		<property name="position" value="FrontRight"/>
+   </bean>
+   
+   <bean id="wheelRearLeft" class="com.tapumandal.collection.list.Wheel">
+   		<property name="radious" value="2"/>
+   		<property name="width" value="4"/>
+   		<property name="position" value="RearLeft"/>
+   </bean>
+   
+   <bean id="wheelRearRight" class="com.tapumandal.collection.list.Wheel">
+   		<property name="radious" value="2"/>
+   		<property name="width" value="4"/>
+   		<property name="position" value="RearRight"/>
+   </bean>
+   
+</beans>
